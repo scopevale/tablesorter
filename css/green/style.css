@@ -31,10 +31,10 @@ table.tablesorter .header span, .stickyHeader .header span {
 	padding: 2px 0 2px 25px;
 }
 table.tablesorter .headerSortUp span {
-	background: url(https://github.com/scopevale/tablesorter/raw/master/css/green/asc.png) no-repeat;
+	background: url(asc.png) no-repeat;
 }
 table.tablesorter .headerSortDown span {
-	background: url(https://github.com/scopevale/tablesorter/raw/master/css/green/desc.png) no-repeat;
+	background: url(desc.png) no-repeat;
 }
 
 /* Zebra Widget - row alternating colors */
