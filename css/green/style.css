@@ -17,7 +17,7 @@ table.tablesorter td {
 	padding: 5px;
 }
 table.tablesorter thead tr, table.tablesorter tfoot tr {
-	background: url(bkgd.png) center center repeat-x;
+	background: url(https://github.com/scopevale/tablesorter/raw/master/css/green/bkgd.png) center center repeat-x;
 }
 table.tablesorter .header {
 	background: transparent;
@@ -27,14 +27,14 @@ table.tablesorter .header {
 	cursor: pointer;
 }
 table.tablesorter .header span, .stickyHeader .header span {
-	background: url(none.png) no-repeat;
+	background: url(https://github.com/scopevale/tablesorter/raw/master/css/green/none.png) no-repeat;
 	padding: 2px 0 2px 25px;
 }
 table.tablesorter .headerSortUp span {
-	background: url(asc.png) no-repeat;
+	background: url(https://github.com/scopevale/tablesorter/raw/master/css/green/asc.png) no-repeat;
 }
 table.tablesorter .headerSortDown span {
-	background: url(desc.png) no-repeat;
+	background: url(https://github.com/scopevale/tablesorter/raw/master/css/green/desc.png) no-repeat;
 }
 
 /* Zebra Widget - row alternating colors */
